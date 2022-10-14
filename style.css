@@ -1,0 +1,25 @@
+.accordion{
+    width:500px;
+    margin:0 auto 0;
+}
+.accordion-trigger{
+    background: green;
+    color:lightblue;
+    padding:15px;
+    margin:10px 0 0;
+    border-radius:5px 5px 0 0;
+    border:2px solid #000;
+    text-decoration:none;
+    
+}
+.accordion-content{
+    margin:0;
+    background: blue;
+    color:lightgreen;
+    padding:15px;
+    border-radius:0 0 5px 5px;
+    border-left:2px solid #000;
+    border-right:2px solid #000;
+    border-bottom:2px solid #000;
+    display:none;
+}
